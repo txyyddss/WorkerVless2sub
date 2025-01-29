@@ -24,3 +24,11 @@ cdn.xn--b6gac.eu.org#3Kmfi6HP
 edgetunnel.anycast.eu.org#ET
 cmcc.090227.xyz#CFcmcc
 cf.090227.xyz#CFauto
+acjp2.cloudflarest.link:2052#KjkkkSG
+gur.gov.ua#GUR
+www.csgo.com#CSGO
+www.hugedomains.com#HUGEDOMIN
+www.d-555.com#D555
+www.glassdoor.com#GLASSDOOR
+www.visa.com.hk#VISA
+www.okcupid.com#OKCUPID
