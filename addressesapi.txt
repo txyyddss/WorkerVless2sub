@@ -2,17 +2,8 @@ cf.877774.xyz#QmsAUTO
 cmcc.877774.xyz#QmsCMCC
 asia.877774.xyz#QmsASIA
 eur.877774.xyz#QmsEUR
-sg.ipdb.rr.nu#IpdbSG
-sg.cf.zhetengsha.eu.org#XiaoyiSG
 na.877774.xyz#QmsUS
-us.ipdb.rr.nu#IpdbUS
-us.cf.zhetengsha.eu.org#XiaoyiUS
 ProxyIP.JP.fxxk.dedyn.io#DedynJP
-jp.ipdb.rr.nu#Ipdbjp
-jp.cf.zhetengsha.eu.org#XiaoyiJP
-ProxyIP.HK.fxxk.dedyn.io#DedynHK
-hk.ipdb.rr.nu#IpdbHK
-hk.cf.zhetengsha.eu.org#XiaoyiHK
 ProxyIP.Aliyun.fxxk.dedyn.io#DedynALI
 ProxyIP.Oracle.fxxk.dedyn.io#DedynOC
 ProxyIP.DigitalOcean.fxxk.dedyn.io#DedynDO
@@ -27,17 +18,9 @@ www.visa.com.hk#VISA
 www.okcupid.com#OKCUPID
 abcd.cloudflare.182682.xyz#182682Anycast
 cnamefuckxxs.yuchen.icu#Yuchen
-speed.marisalnc.com#Marisalnc
-115155.xyz#115115
-cdn.2020111.xyz#2020111
 cfip.cfcdn.vip#cfcdn
 cloudflare-ip.mofashi.ltd#mofashi
-cname.xirancdn.us	ipv4&6#xirancdn
 cf.0sm.com#0sm
-f3058171cad.002404.xyz#002404
-8.889288.xyz#889288
 cf.zerone-cdn.pp.ua#zerone
-cf.cdn.bingbook.cn#bingbook
 cfip.1323123.xyz#1323123
-proxy.xxxxxxxx.tk#xxxxxxproxy
-bestproxy.onecf.eu.org#Mingyuproxy
+
